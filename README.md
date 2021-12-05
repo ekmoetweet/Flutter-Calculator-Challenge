@@ -6,8 +6,5 @@ Skill Test
 
 This application consists of two parts:
 
-1. Calculator
    calculator screen
    History Screen
-2. Graph
-   Graph screen
